@@ -1,0 +1,73 @@
+body
+{
+    font-family: 'Limelight', cursive;
+    background: rgb(138, 76, 76);
+}
+.heading
+{
+    background: red;
+    box-shadow: 5px 5px 50px red;
+    color: black;
+}
+.heading img
+{
+    width: 100px;
+}
+.camera_div
+{
+    background: whitesmoke;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid gray;
+}
+.camera_div label
+{
+    background: greenyellow;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 50px red;
+}
+button
+{
+    width: 300px;
+    font-size: 16px;
+    box-shadow: 5px 5px 50px rgb(175, 202, 55);
+    border: 1px solid;
+}
+#camera, #result
+{
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 50px rgb(175, 202, 55);
+    border: 1px solid;
+}
+.footer img
+{
+    width: 100px;
+}
+.footer h4
+{
+    background: white;
+    box-shadow: 5px 5px 18px pink;
+    border-radius: 25px;
+    width: 750px;
+    height: 100px;
+    padding: 5px;
+}
+.footer
+{
+    margin: 50px;
+}
+
+.copyright
+{
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    color: black;
+    box-shadow: 5px 5px 18px red;
+    line-height: 4;
+    background: red;
+    bottom: 0;
+}
